@@ -15,6 +15,6 @@ Objective
 Specifications
 ** Data Sources**
 **Data Quality**
-** Itergration**
+** Intergration**
 ** Scope**
 ** Documentation**
